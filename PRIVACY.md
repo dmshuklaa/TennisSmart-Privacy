@@ -130,6 +130,6 @@ Continued use of the app after changes indicates acceptance of the updated polic
 
 If you have questions about this Privacy Policy or your data, you may contact us at:
 
-Email: [support@yourdomain.com]  
+Email: [dmshuklaa@gmail.com]  
 App: TennisSmart  
-Developer: [Your Name or Company]
+Developer: [Dev Shukla]
