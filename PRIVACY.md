@@ -1,6 +1,6 @@
                                                                                                                                                                             
   Last updated: April 2026                                  
-  Developer: PeakLogic                                                                                                                                                                                                
+  Developer: Dev Shukla                                                                                                                                                                                                
   
   ---                                                                                                                                                                                                                 
   Overview                                                  
