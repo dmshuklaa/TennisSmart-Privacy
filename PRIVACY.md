@@ -80,6 +80,7 @@
   - Delete your data — go to the app → Profile tab → scroll to the bottom → tap "Delete Account". This permanently deletes your account and all associated data from the app and from our servers. This action cannot
   be undone.                                                                                                                                                                                                          
   - Export your data — use the Share Match Summary feature to export match data at any time
+  -  To delete your account: open TennisSmart → tap the Profile tab → scroll to the bottom → tap "Delete Account". All data is permanently removed and cannot be recovered.
                                                                                                                                                                                                                       
   ---                                                       
   Data Retention                                                                                                                                                                                                      
